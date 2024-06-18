@@ -12,6 +12,5 @@ try:
         print(mediana)
         promedio = sum(numeros) / len(numeros)
         promFinal = round(promedio,1)
-        print(promFinal)
 except:
     print("ERROR: ERROR EN EL PROGRAMA. CONSULTAR AL DUEÑO")
