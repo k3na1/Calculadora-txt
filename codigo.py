@@ -9,6 +9,11 @@ try:
         numeros = intConvertor
 
         mediana = st.median(numeros)
+        
+        modas = st.mode(numeros)
+       
 
 except:
     print("ERROR: ERROR EN EL PROGRAMA. CONSULTAR AL DUEÑO")
+
+
