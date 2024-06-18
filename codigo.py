@@ -9,7 +9,6 @@ try:
         numeros = intConvertor
 
         mediana = st.median(numeros)
-        print(mediana)
 
 except:
     print("ERROR: ERROR EN EL PROGRAMA. CONSULTAR AL DUEÑO")
